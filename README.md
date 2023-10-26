@@ -14,15 +14,15 @@
 
 ###
 
-<p align="left">My name is Syamirul and I'm from Kuala Lumpur, Malaysia. I began my Piscine journey on 11th September 2023 and completed my Final Exam on  6th October 2023.<br><br>Throughout my Piscine journey, I've submitted 12 out of 15 individual projects, and all 3 Rush (group) projects.<br><br>This repo serves as a copy of my codes, for future references and also perhaps it could help some of the new students of 42 Network.</p>
+<p align="left">My name is Syamirul and I'm from Kuala Lumpur, Malaysia. I began my 42KL journey on 11th September 2023 and completed my Piscine on  16th October 2023.<br><br>After the kickoff I began my Cadet journey with this project, Libft. <br><br>This repo serves as a copy of my codes, for future references and also perhaps it could help some of the new students of 42 Network.</p>
 
 ###
 
-<h2 align="left">Projects</h2>
+<h2 align="left">Libft</h2>
 
 ###
 
-<p align="left">Shell 0️0 : 95% : EX00 - EX09 OK<br>Shell 01 : 40% : EX00 - EX04 OK<br>C 00 : 50% : EX00 - EX04 OK<br>C 01 : 85% : EX00 - EX06 OK<br>C 02 : 85% : EX00 - EX10 OK<br>C 03 : 75% : EX00 - EX04 OK<br>C 04 : 77% : EX00 - EX03 OK<br>C 05 : 70% : EX00 - EX06 OK<br>C 06 : 100% : EX00 - EX03 OK<br>C 0️7️ : 60% : EX00 - EX03 OK<br>C 0️8️ : 100% EX00 - EX05 OK<br>C 0️9️ : 100% : EX00 - EX02 OK<br>Rush 0️0️ : 120% <br>Rush 0️1️ : 100%<br>Rush 0️2️ :  0%</p>
+Tested with Supreme Tester, all pass.
 
 ###
 
